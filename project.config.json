@@ -2,7 +2,7 @@
   "miniprogramRoot": "./dist",
   "projectname": "taro-demo",
   "description": "A demo for taro with tailwindcss",
-  "appid": "touristappid",
+  "appid": "wx0f3f886e026d6e2f",
   "setting": {
     "urlCheck": true,
     "es6": false,
